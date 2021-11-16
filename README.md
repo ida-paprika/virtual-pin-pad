@@ -16,10 +16,10 @@ P25 - Team KISS's project « Virtual PIN Pad »
 </ul>
 
 <hr>
-Besoins : graphic interface with a section for a 4 digits input, and another with a numeric keypad
+Needs : graphic interface with a section for a 4 digits input, and another with a numeric keypad
 
 ---------------- Sketch ------------------
-Using the specificities given by the Product Owner, the sketch is the rough representation of the interface. It helps the process of conceiving what the interface will look like. It needs to be validated by the PO.
+\nUsing the specificities given by the Product Owner, the sketch is the rough representation of the interface. It helps the process of conceiving what the interface will look like. It needs to be validated by the PO.
 <br>
 <img src="https://user-images.githubusercontent.com/64545714/141975849-304892b7-5f7c-4f2b-a3f0-90f4815cf78d.JPG" width="250">
 
