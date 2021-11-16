@@ -32,3 +32,13 @@ The wireframe is the clean, digital version of the sketch. It is what the web de
 We used a free website named "MockFlow"
 <br>
 <img src="https://user-images.githubusercontent.com/64545714/141993386-3120ff27-cdd4-4e9b-9a7b-86ecf98ada24.png" width="250">
+
+
+---------------- Intégration ------------------
+<ul>
+    <li>Doctype : it is the first declaration of any HTML file, that let the browser knows of what type of document is being displayed</li>
+    <li>HTML head : it contains all the informations about the HTML page, like the title and description, the set of characters or the path to the CSS file</li>
+    <li>meta viewport : it defines the size and squale of the page</li>
+    <li>css files on the side : </li>
+</ul>
+
