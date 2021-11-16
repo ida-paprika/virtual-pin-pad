@@ -1,5 +1,5 @@
 # virtual-pin-pad
-P25 - Team Sigma's project « Virtual PIN Pad »
+P25 - Team KISS's project « Virtual PIN Pad »
 
     • Introduction du projet : Our client, a bank, needs a web interface for authentication or payment by PIN code
     • Nom de l'équipe : KISS -> Keep It Simple Stupid (keeping concepts and functionnalities as simple as possible)
