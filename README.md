@@ -14,7 +14,10 @@ P25 - Team KISS's project « Virtual PIN Pad »
     <li>Intérêt de diviser le travail en tâches avec une notion de priorités : helps organizing team work as a faster, more efficient way, and determined what task must be done first</li>
     <li>Utilité d'un tableau de suivi partagé dans une équipe : once tasks are defined, it offers a visual way of what must be done, is being done, and a global vision of the state of progress that can be easily managed</li>
 </ul>
-    
+
+<hr>
+Besoins : graphic interface with a section for a 4 digits input, and another with a numeric keypad
+
 Sketch-------------------
 <br>
 <img src="https://user-images.githubusercontent.com/64545714/141975849-304892b7-5f7c-4f2b-a3f0-90f4815cf78d.JPG" width="250">
