@@ -12,3 +12,6 @@ P25 - Team KISS's project « Virtual PIN Pad »
     • Utilité d'un tableau de suivi partagé dans une équipe : once tasks are defined, it offers a visual way of what must be done, is being done, and a global vision of the state of progress that can be easily managed
     
     
+Besoins : 
+Sketch-------------------
+![sketch](https://user-images.githubusercontent.com/64545714/141975849-304892b7-5f7c-4f2b-a3f0-90f4815cf78d.JPG)
