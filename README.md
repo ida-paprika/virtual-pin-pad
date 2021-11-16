@@ -14,4 +14,4 @@ P25 - Team KISS's project « Virtual PIN Pad »
     
 Besoins : 
 Sketch-------------------
-![sketch](https://user-images.githubusercontent.com/64545714/141975849-304892b7-5f7c-4f2b-a3f0-90f4815cf78d.JPG | width=48)
+![sketch](https://user-images.githubusercontent.com/64545714/141975849-304892b7-5f7c-4f2b-a3f0-90f4815cf78d.JPG){:height="24px" width="48px"}
