@@ -28,3 +28,5 @@ Using the specificities given by the Product Owner, the sketch is the rough repr
 ---------------- Wireframe ------------------
 <br>
 The wireframe is the clean, digital version of the sketch. It is what the web designer will use to make the mock-up. It also needs to be validated by the PO.
+<br>
+<img src="https://user-images.githubusercontent.com/64545714/141993386-3120ff27-cdd4-4e9b-9a7b-86ecf98ada24.png" width="250">
