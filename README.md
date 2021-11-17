@@ -38,7 +38,6 @@ We used a free website named "MockFlow"
 <ul>
     <li>Doctype : it is the first declaration of any HTML file, that let the browser knows of what type of document is being displayed</li>
     <li>HTML head : it contains all the informations about the HTML page, like the title and description, the set of characters or the path to the CSS file</li>
-    <li>meta viewport : it defines the size and squale of the page</li>
-    <li>css files on the side : </li>
+    <li>meta viewport : it defines the size and scale of the page</li>
 </ul>
 
