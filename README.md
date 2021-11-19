@@ -40,8 +40,8 @@ We used a free website named "MockFlow"
     <li>HTML head : it contains all the informations about the HTML page, like the title and description, the set of characters or the path to the CSS file</li>
     <li>meta viewport : it defines the size and scale of the page</li>
     <li>Style files on the side : </li>
-    <li>CSS Box Model : </li>
-    <li>CSS Selector : </li>
+    <li>CSS Box Model : it is made of the inner and outer spacing, border and content of inline and block elements</li>
+    <li>CSS Selector : it is the way we define what HTML element we are targeting</li>
     <li>CSS Property : </li>
     <li>Links : 
         <ul>
