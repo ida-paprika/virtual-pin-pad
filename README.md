@@ -39,5 +39,16 @@ We used a free website named "MockFlow"
     <li>Doctype : it is the first declaration of any HTML file, that let the browser knows of what type of document is being displayed</li>
     <li>HTML head : it contains all the informations about the HTML page, like the title and description, the set of characters or the path to the CSS file</li>
     <li>meta viewport : it defines the size and scale of the page</li>
+    <li>Style files on the side : </li>
+    <li>CSS Box Model : </li>
+    <li>CSS Selector : </li>
+    <li>CSS Property : </li>
+    <li>Links : 
+        <ul>
+            <li>https://developer.mozilla.org/fr/</li>
+            <li>https://www.w3schools.com/</li>
+            <li>https://stackoverflow.com/</li>
+        </ul>
+    </li>
 </ul>
 
